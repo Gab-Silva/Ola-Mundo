@@ -1,4 +1,4 @@
 # Olá, Mundo!
  Primeiro repositório
 
-Iniciando Jornada
+Iniciando jornada
